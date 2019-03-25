@@ -35,6 +35,7 @@ params:
 
   ## Which Git revision should this container use? (default: tests-passed)
   #version: tests-passed
+  version: stable
 
 env:
   LANG: en_US.UTF-8
